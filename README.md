@@ -4,7 +4,7 @@ Neurovision, medikal görüntüleme verilerini (özellikle NIfTI formatındaki M
 
 Bu proje, MONAI (Medical Open Network for AI) kütüphanesi kullanılarak, tıbbi görüntüleme iş akışlarını (preprocessing, training, inference) standartlaştırmayı hedefler.
 
-##🚀 Özellikler
+## 🚀 Özellikler
 
 NIfTI Desteği: Tıbbi standart olan .nii ve .nii.gz formatlarıyla tam uyum.
 
