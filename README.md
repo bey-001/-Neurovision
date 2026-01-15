@@ -4,7 +4,8 @@ Neurovision, medikal görüntüleme verilerini (özellikle NIfTI formatındaki M
 
 Bu proje, MONAI (Medical Open Network for AI) kütüphanesi kullanılarak, tıbbi görüntüleme iş akışlarını (preprocessing, training, inference) standartlaştırmayı hedefler.
 
-🚀 Özellikler
+##🚀 Özellikler
+
 NIfTI Desteği: Tıbbi standart olan .nii ve .nii.gz formatlarıyla tam uyum.
 
 MONAI Pipelines: Veri artırma (augmentation) ve ön işleme için optimize edilmiş transformlar.
@@ -13,7 +14,8 @@ Model Mimarisi: Gelişmiş 3D UNet ve varyantları.
 
 Esnek Veri Yapısı: Farklı veri setlerine kolayca adapte edilebilir mimari.
 
-📊 Veri Seti Hazırlığı 
+
+## 📊 Veri Seti Hazırlığı 
 Bu proje, gerçekçi beyin MR simülasyonları sağlayan BrainWeb veri seti ile uyumlu çalışacak şekilde tasarlanmıştır.
 
 Veriyi İndirin: BrainWeb (Simulated Brain Database) adresine gidin.
